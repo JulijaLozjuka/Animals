@@ -1,0 +1,105 @@
+WOLF:
+  weight: 50
+  amountOfSteps: 30
+  maxHungerLevel: 8
+  maxAmountOnCell: 30
+  maxAmountOnSpawn: 10
+  chanceOnSpawn: 10.0
+SNAKE:
+  weight: 15
+  amountOfSteps: 1
+  maxHungerLevel: 3
+  maxAmountOnCell: 30
+  maxAmountOnSpawn: 10
+  chanceOnSpawn: 10.0
+FOX:
+  weight: 8
+  amountOfSteps: 2
+  maxHungerLevel: 2
+  maxAmountOnCell: 30
+  maxAmountOnSpawn: 10
+  chanceOnSpawn: 10.0
+BEAR:
+  weight: 500
+  amountOfSteps: 2
+  maxHungerLevel: 80
+  maxAmountOnCell: 5
+  maxAmountOnSpawn: 2
+  chanceOnSpawn: 10.0
+EAGLE:
+  weight: 6
+  amountOfSteps: 3
+  maxHungerLevel: 1
+  maxAmountOnCell: 20
+  maxAmountOnSpawn: 7
+  chanceOnSpawn: 10.0
+HORSE:
+  weight: 400
+  amountOfSteps: 4
+  maxHungerLevel: 60
+  maxAmountOnCell: 20
+  maxAmountOnSpawn: 7
+  chanceOnSpawn: 10.0
+DEER:
+  weight: 300
+  amountOfSteps: 4
+  maxHungerLevel: 50
+  maxAmountOnCell: 20
+  maxAmountOnSpawn: 7
+  chanceOnSpawn: 10.0
+RABBIT:
+  weight: 2
+  amountOfSteps: 2
+  maxHungerLevel: 0.45
+  maxAmountOnCell: 150
+  maxAmountOnSpawn: 50
+  chanceOnSpawn: 10.0
+MOUSE:
+  weight: 2
+  amountOfSteps: 2
+  maxHungerLevel: 0.45
+  maxAmountOnCell: 150
+  maxAmountOnSpawn: 50
+  chanceOnSpawn: 10.0
+GOAT:
+  weight: 60
+  amountOfSteps: 3
+  maxHungerLevel: 10
+  maxAmountOnCell: 140
+  maxAmountOnSpawn: 45
+  chanceOnSpawn: 10.0
+SHEEP:
+  weight: 70
+  amountOfSteps: 3
+  maxHungerLevel: 15
+  maxAmountOnCell: 140
+  maxAmountOnSpawn: 45
+  chanceOnSpawn: 10.0
+BOAR:
+  weight: 400
+  amountOfSteps: 2
+  maxHungerLevel: 50
+  maxAmountOnCell: 50
+  maxAmountOnSpawn: 15
+  chanceOnSpawn: 10.0
+BUFFALO:
+  weight: 700
+  amountOfSteps: 3
+  maxHungerLevel: 100
+  maxAmountOnCell: 10
+  maxAmountOnSpawn: 4
+  chanceOnSpawn: 10.0
+DUCK:
+  weight: 1
+  amountOfSteps: 4
+  maxHungerLevel: 0.14
+  maxAmountOnCell: 200
+  maxAmountOnSpawn: 70
+  chanceOnSpawn: 10.0
+CATERPILLAR:
+  weight: 0.01
+  amountOfSteps: 0
+  maxHungerLevel: 1
+  maxAmountOnCell: 1000
+  maxAmountOnSpawn: 350
+  chanceOnSpawn: 10.0
